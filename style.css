@@ -1,0 +1,15 @@
+.container{
+	text-align:center;
+}
+fieldset{
+	width:50%;
+	height:97vh;
+	margin:auto;
+}
+input{
+	padding:0.6rem;
+}
+button{
+	margin-top:1.5rem;
+	padding:0.9rem;
+}
